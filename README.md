@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hey, I'm Menzoz</h1>
-<p align="center">Hobby Developer - Tech Enthusiast</p>
+# 👋 Hey, I'm Krowx
+
+**Hobby Developer • Tech Enthusiast**
 
 ---
 
