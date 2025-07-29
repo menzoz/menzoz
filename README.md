@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Krowx
+# 👋 Hey, I'm Menzoz
 
 **Hobby Developer • Tech Enthusiast**
 
