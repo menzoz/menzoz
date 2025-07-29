@@ -65,7 +65,7 @@ Feel free to reach out if you want to collaborate or just chat! 🚀
 
 ## 🌍 Links
 
-- 💬 [discord.gg/yourproject](https://discord.gg/seranocity)
+- 💬 [discord.gg/seranocity](https://discord.gg/seranocity)
 
 ---
 
