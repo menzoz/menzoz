@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Menzoz
+# 👋 Hey, I'm Vintage
 
 **Hobby Developer • Tech Enthusiast**
 
@@ -65,7 +65,7 @@ Feel free to reach out if you want to collaborate or just chat! 🚀
 
 ## 🌍 Links
 
-- 💬 [discord.gg/seranocity](https://discord.gg/seranocity)
+- 💬 [discord.gg/soon](https://discord.gg/)
 
 ---
 
