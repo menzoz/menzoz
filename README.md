@@ -65,7 +65,7 @@ Feel free to reach out if you want to collaborate or just chat! 🚀
 
 ## 🌍 Links
 
-- 💬 [discord.gg/soon](https://discord.gg/)
+- 💬 [discord.gg/finalallstars](https://discord.gg/finalu21)
 
 ---
 
